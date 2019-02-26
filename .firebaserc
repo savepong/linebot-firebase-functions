@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "savebot": "save-bot",
+    "default": "save-bot"
+  }
+}
